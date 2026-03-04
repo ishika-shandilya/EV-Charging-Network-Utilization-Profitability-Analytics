@@ -111,31 +111,6 @@ These tables capture infrastructure data, charging transactions, operational cos
 
 ---
 
-## Repository Structure
-
-EV-Charging-Network-Analytics
-│
-├── data/
-│   ├── stations.csv
-│   ├── charger_units.csv
-│   ├── charging_sessions.csv
-│   ├── electricity_costs.csv
-│   ├── maintenance_logs.csv
-│   └── city_demo.csv
-│
-├── python/
-│   └── data_cleaning.ipynb
-│
-├── sql/
-│   └── ev_network_analysis.sql
-│
-├── dashboard/
-│   └── (Power BI dashboard - coming soon)
-│
-└── README.md
-
----
-
 ## Future Improvements
 
 * Build an interactive Power BI dashboard for operational monitoring.
