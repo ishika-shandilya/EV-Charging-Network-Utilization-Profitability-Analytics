@@ -1,0 +1,944 @@
+charger_id,station_id,charger_type,max_power_kw,installation_date,operational_status
+1,1,AC,180,2023-05-21,Active
+2,1,AC,60,2023-02-22,Active
+3,1,"DC Fast",60,2023-01-16,Active
+4,1,AC,60,2023-09-16,Active
+5,1,AC,180,2023-11-29,"Under Maintenance"
+6,2,"DC Fast",180,2023-05-23,Active
+7,2,AC,180,2023-08-05,"Under Maintenance"
+8,2,"DC Fast",60,2023-04-21,"Under Maintenance"
+9,2,AC,60,2023-07-14,Active
+10,2,"DC Fast",120,2023-11-06,"Under Maintenance"
+11,2,AC,180,2023-08-24,Active
+12,2,"DC Fast",60,2023-10-10,"Under Maintenance"
+13,3,AC,180,2023-02-05,Active
+14,3,AC,120,2023-02-10,Active
+15,3,AC,120,2023-05-23,"Under Maintenance"
+16,3,"DC Fast",60,2023-07-09,"Under Maintenance"
+17,3,AC,180,2023-05-17,Active
+18,3,AC,180,2023-05-06,Active
+19,3,"DC Fast",120,2023-05-19,Active
+20,3,"DC Fast",60,2023-04-28,Active
+21,3,"DC Fast",120,2023-05-18,Active
+22,4,"DC Fast",60,2023-12-02,"Under Maintenance"
+23,4,"DC Fast",180,2023-08-23,Active
+24,4,"DC Fast",60,2023-05-07,Unknown
+25,4,"DC Fast",180,2023-07-24,"Under Maintenance"
+26,4,AC,60,2023-09-18,"Under Maintenance"
+27,4,AC,60,2023-02-26,Active
+28,4,AC,180,2023-08-05,Active
+29,5,"DC Fast",180,2023-08-28,"Under Maintenance"
+30,5,AC,180,2023-02-28,"Under Maintenance"
+31,5,"DC Fast",60,2023-05-31,Unknown
+32,5,AC,120,2023-01-02,"Under Maintenance"
+33,5,AC,180,2023-02-24,"Under Maintenance"
+34,5,AC,60,2023-07-11,Active
+35,5,AC,180,2023-06-15,"Under Maintenance"
+36,5,AC,60,2023-07-05,"Under Maintenance"
+37,5,AC,60,2023-05-04,Active
+38,5,AC,180,2023-09-06,Active
+39,6,AC,60,2023-12-04,"Under Maintenance"
+40,6,AC,120,2023-09-28,"Under Maintenance"
+41,6,AC,180,2023-12-20,Active
+42,6,"DC Fast",120,2023-12-10,"Under Maintenance"
+43,6,"DC Fast",180,2023-08-20,Active
+44,6,AC,60,2023-02-02,"Under Maintenance"
+45,6,AC,180,2023-10-11,Active
+46,6,AC,60,2023-02-06,Active
+47,6,AC,60,2023-01-17,"Under Maintenance"
+48,6,AC,180,2023-05-02,"Under Maintenance"
+49,6,"DC Fast",60,2023-10-04,Active
+50,6,"DC Fast",60,2023-08-31,"Under Maintenance"
+51,7,AC,60,2023-12-04,"Under Maintenance"
+52,7,"DC Fast",120,2023-07-30,"Under Maintenance"
+53,7,AC,180,2023-12-01,Active
+54,7,AC,120,2023-06-23,Active
+55,7,AC,60,2023-04-08,"Under Maintenance"
+56,7,AC,120,2023-04-04,"Under Maintenance"
+57,7,"DC Fast",60,2023-02-08,"Under Maintenance"
+58,8,AC,60,2023-11-30,Active
+59,8,AC,60,2023-03-27,"Under Maintenance"
+60,8,"DC Fast",120,2023-04-20,"Under Maintenance"
+61,8,AC,60,2023-07-14,Active
+62,8,"DC Fast",120,2023-08-21,"Under Maintenance"
+63,8,"DC Fast",180,2023-10-12,"Under Maintenance"
+64,8,AC,60,2023-06-01,Active
+65,8,AC,180,2023-10-05,Active
+66,8,"DC Fast",60,2023-01-26,"Under Maintenance"
+67,8,AC,60,2023-09-18,Active
+68,8,AC,60,2023-11-01,Active
+69,8,AC,120,2023-03-03,Active
+70,9,AC,120,2023-12-03,"Under Maintenance"
+71,9,"DC Fast",60,2023-12-09,"Under Maintenance"
+72,9,AC,120,2023-07-22,Active
+73,9,"DC Fast",120,2023-06-11,Active
+74,10,"DC Fast",180,2023-10-16,Active
+75,10,AC,180,2023-04-20,"Under Maintenance"
+76,10,AC,120,2023-02-05,Active
+77,10,"DC Fast",120,2023-03-22,"Under Maintenance"
+78,11,"DC Fast",180,2023-12-01,Active
+79,11,"DC Fast",180,2023-02-23,Active
+80,11,"DC Fast",60,2023-02-24,Active
+81,11,"DC Fast",120,2023-11-06,Active
+82,11,"DC Fast",60,2023-12-18,"Under Maintenance"
+83,11,"DC Fast",120,2023-01-27,Active
+84,11,"DC Fast",120,2023-01-23,Active
+85,11,"DC Fast",60,2023-11-23,"Under Maintenance"
+86,11,AC,180,2023-08-15,"Under Maintenance"
+87,11,AC,60,2023-02-08,Active
+88,11,AC,120,2023-10-26,Active
+89,11,"DC Fast",60,2023-01-22,"Under Maintenance"
+90,12,AC,120,2023-04-18,Active
+91,12,AC,120,2023-10-14,"Under Maintenance"
+92,12,AC,60,2023-03-25,Active
+93,12,"DC Fast",60,2023-04-02,"Under Maintenance"
+94,12,"DC Fast",180,2023-05-08,"Under Maintenance"
+95,12,AC,180,2023-02-25,"Under Maintenance"
+96,12,AC,120,2023-04-24,Active
+97,12,"DC Fast",120,2023-06-06,Unknown
+98,12,AC,60,2023-12-04,Active
+99,13,"DC Fast",120,2023-02-05,"Under Maintenance"
+100,13,"DC Fast",180,2023-09-18,"Under Maintenance"
+101,13,"DC Fast",60,2023-03-01,"Under Maintenance"
+102,13,AC,180,2023-05-16,Active
+103,13,AC,180,2023-08-11,"Under Maintenance"
+104,13,"DC Fast",120,2023-11-07,Active
+105,13,"DC Fast",180,2023-04-08,"Under Maintenance"
+106,13,AC,180,2023-08-12,Active
+107,13,AC,120,2023-08-09,Active
+108,13,"DC Fast",180,2023-06-10,Active
+109,14,"DC Fast",180,2023-07-29,"Under Maintenance"
+110,14,"DC Fast",180,2023-06-01,Active
+111,14,AC,120,2023-12-07,"Under Maintenance"
+112,14,AC,180,2023-10-19,"Under Maintenance"
+113,14,"DC Fast",180,2023-01-01,"Under Maintenance"
+114,14,"DC Fast",60,2023-08-09,"Under Maintenance"
+115,14,"DC Fast",120,2023-08-15,Active
+116,14,"DC Fast",180,2023-03-28,Active
+117,15,"DC Fast",60,2023-05-01,"Under Maintenance"
+118,15,AC,60,2023-03-17,Active
+119,15,AC,60,2023-09-01,Active
+120,15,"DC Fast",120,2023-11-19,Active
+121,15,"DC Fast",120,2023-07-24,Active
+122,15,AC,180,2023-12-19,Active
+123,15,AC,120,2023-04-23,Active
+124,15,"DC Fast",60,2023-10-13,Active
+125,16,"DC Fast",60,2023-08-26,"Under Maintenance"
+126,16,"DC Fast",180,2023-09-16,"Under Maintenance"
+127,16,"DC Fast",60,2023-09-01,"Under Maintenance"
+128,16,"DC Fast",60,2023-11-23,"Under Maintenance"
+129,16,"DC Fast",180,2023-05-03,"Under Maintenance"
+130,17,AC,180,2023-05-27,Active
+131,17,"DC Fast",120,2023-06-13,Active
+132,17,AC,60,2023-04-29,"Under Maintenance"
+133,17,AC,180,2023-04-20,Active
+134,17,"DC Fast",120,2023-06-19,"Under Maintenance"
+135,17,"DC Fast",60,2023-04-16,"Under Maintenance"
+136,17,"DC Fast",180,2023-12-23,Active
+137,17,"DC Fast",120,2023-01-04,"Under Maintenance"
+138,17,"DC Fast",120,2023-08-03,Active
+139,17,"DC Fast",60,2023-05-20,"Under Maintenance"
+140,17,"DC Fast",60,2023-07-19,"Under Maintenance"
+141,18,AC,120,2023-03-07,Active
+142,18,"DC Fast",180,2023-10-16,Active
+143,18,AC,180,2023-08-08,Active
+144,18,"DC Fast",60,2023-01-26,"Under Maintenance"
+145,18,"DC Fast",120,2023-04-19,"Under Maintenance"
+146,18,"DC Fast",120,2023-07-14,"Under Maintenance"
+147,18,"DC Fast",120,2023-02-11,"Under Maintenance"
+148,18,AC,180,2023-10-04,Active
+149,18,"DC Fast",60,2023-11-29,Active
+150,18,AC,60,2023-05-07,Active
+151,19,AC,60,2023-03-06,"Under Maintenance"
+152,19,AC,180,2023-04-22,"Under Maintenance"
+153,19,"DC Fast",120,2023-03-27,Active
+154,19,AC,120,2023-02-25,Active
+155,20,"DC Fast",120,2023-04-12,Active
+156,20,AC,60,2023-12-23,"Under Maintenance"
+157,20,AC,180,2023-01-22,"Under Maintenance"
+158,20,"DC Fast",180,2023-07-09,Active
+159,20,"DC Fast",60,2023-08-04,"Under Maintenance"
+160,20,AC,120,2023-07-05,"Under Maintenance"
+161,20,AC,120,2023-04-01,"Under Maintenance"
+162,20,"DC Fast",120,2023-08-12,"Under Maintenance"
+163,21,AC,60,2023-05-23,"Under Maintenance"
+164,21,AC,120,2023-10-19,"Under Maintenance"
+165,21,"DC Fast",60,2023-09-11,"Under Maintenance"
+166,21,AC,120,2023-04-19,"Under Maintenance"
+167,21,"DC Fast",120,2023-05-24,"Under Maintenance"
+168,21,AC,180,2023-04-08,Active
+169,21,AC,180,2023-07-28,"Under Maintenance"
+170,21,AC,180,2023-09-01,"Under Maintenance"
+171,21,"DC Fast",60,2023-02-17,"Under Maintenance"
+172,22,"DC Fast",180,2023-05-05,"Under Maintenance"
+173,22,"DC Fast",120,2023-10-11,"Under Maintenance"
+174,22,"DC Fast",180,2023-10-09,"Under Maintenance"
+175,22,"DC Fast",180,2023-08-21,"Under Maintenance"
+176,22,"DC Fast",120,2023-04-29,Active
+177,22,AC,120,2023-03-03,Active
+178,22,AC,60,2023-09-05,"Under Maintenance"
+179,23,"DC Fast",60,2023-04-10,"Under Maintenance"
+180,23,AC,120,2023-04-02,"Under Maintenance"
+181,23,AC,180,2023-10-01,Active
+182,23,"DC Fast",60,2023-01-28,"Under Maintenance"
+183,23,AC,180,2023-09-09,Active
+184,23,AC,180,2023-05-26,"Under Maintenance"
+185,23,"DC Fast",120,2023-06-24,Active
+186,23,AC,120,2023-09-02,Active
+187,23,AC,120,2023-09-09,Active
+188,23,AC,60,2023-03-18,"Under Maintenance"
+189,23,AC,60,2023-03-02,"Under Maintenance"
+190,23,AC,180,2023-07-14,"Under Maintenance"
+191,24,"DC Fast",180,2023-08-08,"Under Maintenance"
+192,24,AC,180,2023-02-20,Active
+193,24,AC,120,2023-12-05,Active
+194,24,AC,60,2023-03-30,Active
+195,24,AC,60,2023-07-29,"Under Maintenance"
+196,24,"DC Fast",120,2023-01-17,Active
+197,24,"DC Fast",180,2023-05-25,"Under Maintenance"
+198,24,AC,180,2023-04-30,"Under Maintenance"
+199,24,AC,120,2023-02-28,Active
+200,24,AC,120,2023-03-14,Active
+201,24,AC,60,2023-06-07,"Under Maintenance"
+202,25,AC,120,2023-12-19,"Under Maintenance"
+203,25,"DC Fast",120,2023-09-14,"Under Maintenance"
+204,25,"DC Fast",60,2023-11-03,Active
+205,25,"DC Fast",180,2023-06-15,"Under Maintenance"
+206,25,AC,60,2023-04-28,Active
+207,25,"DC Fast",180,2023-01-21,Active
+208,25,"DC Fast",180,2023-11-30,"Under Maintenance"
+209,25,"DC Fast",60,2023-10-27,"Under Maintenance"
+210,25,"DC Fast",60,2023-08-29,"Under Maintenance"
+211,25,"DC Fast",120,2023-06-14,Active
+212,25,AC,120,2023-07-30,"Under Maintenance"
+213,26,"DC Fast",180,2023-01-19,"Under Maintenance"
+214,26,AC,120,2023-05-10,"Under Maintenance"
+215,26,AC,120,2023-09-21,Active
+216,26,"DC Fast",120,2023-01-28,Active
+217,26,"DC Fast",180,2023-09-13,"Under Maintenance"
+218,26,AC,60,2023-05-17,Active
+219,26,"DC Fast",120,2023-12-24,"Under Maintenance"
+220,26,AC,60,2023-11-19,Active
+221,27,"DC Fast",180,2023-01-08,"Under Maintenance"
+222,27,AC,60,2023-02-28,"Under Maintenance"
+223,27,AC,180,2023-03-20,"Under Maintenance"
+224,27,"DC Fast",180,2023-12-28,"Under Maintenance"
+225,27,"DC Fast",120,2023-08-30,Active
+226,27,"DC Fast",180,2023-03-16,"Under Maintenance"
+227,28,AC,60,2023-05-22,"Under Maintenance"
+228,28,"DC Fast",180,2023-05-17,Active
+229,28,"DC Fast",180,2023-06-02,"Under Maintenance"
+230,28,AC,120,2023-10-03,"Under Maintenance"
+231,28,"DC Fast",120,2023-10-10,"Under Maintenance"
+232,28,"DC Fast",120,2023-04-07,Active
+233,28,"DC Fast",60,2023-07-30,Active
+234,29,"DC Fast",180,2023-07-15,"Under Maintenance"
+235,29,AC,120,2023-01-19,Active
+236,29,"DC Fast",60,2023-08-14,Active
+237,29,"DC Fast",60,2023-03-15,"Under Maintenance"
+238,29,AC,60,2023-08-29,"Under Maintenance"
+239,29,"DC Fast",180,2023-12-21,"Under Maintenance"
+240,29,AC,120,2023-12-12,"Under Maintenance"
+241,29,"DC Fast",180,2023-09-07,Active
+242,29,AC,60,2023-11-20,"Under Maintenance"
+243,30,AC,120,2023-02-20,Active
+244,30,"DC Fast",60,2023-12-22,"Under Maintenance"
+245,30,AC,60,2023-06-16,Active
+246,30,"DC Fast",120,2023-07-11,"Under Maintenance"
+247,30,AC,60,2023-09-29,"Under Maintenance"
+248,30,AC,60,2023-03-31,Active
+249,30,"DC Fast",180,2023-12-16,Active
+250,31,AC,60,2023-08-25,"Under Maintenance"
+251,31,"DC Fast",120,2023-12-08,Active
+252,31,"DC Fast",120,2023-12-13,Active
+253,31,AC,120,2023-06-26,"Under Maintenance"
+254,31,"DC Fast",180,2023-05-09,"Under Maintenance"
+255,31,"DC Fast",60,2023-07-16,"Under Maintenance"
+256,31,AC,60,2023-07-15,"Under Maintenance"
+257,31,"DC Fast",180,2023-06-01,Active
+258,31,"DC Fast",120,2023-01-05,Active
+259,31,"DC Fast",120,2023-04-28,"Under Maintenance"
+260,31,AC,180,2023-04-08,Unknown
+261,32,AC,180,2023-11-27,Active
+262,32,"DC Fast",120,2023-01-18,"Under Maintenance"
+263,32,AC,60,2023-06-01,"Under Maintenance"
+264,32,"DC Fast",60,2023-04-13,Active
+265,32,"DC Fast",180,2023-09-14,"Under Maintenance"
+266,32,AC,120,2023-09-04,Unknown
+267,33,AC,120,2023-02-08,Active
+268,33,AC,180,2023-12-12,"Under Maintenance"
+269,33,"DC Fast",60,2023-07-22,Active
+270,33,"DC Fast",180,2023-03-05,"Under Maintenance"
+271,33,"DC Fast",180,2023-12-11,"Under Maintenance"
+272,33,"DC Fast",180,2023-07-10,Active
+273,33,AC,120,2023-01-13,"Under Maintenance"
+274,33,AC,180,2023-02-02,"Under Maintenance"
+275,33,"DC Fast",180,2023-07-29,Active
+276,34,AC,60,2023-06-05,"Under Maintenance"
+277,34,AC,60,2023-05-01,Active
+278,34,"DC Fast",120,2023-07-09,"Under Maintenance"
+279,34,AC,120,2023-12-02,Active
+280,34,"DC Fast",180,2023-07-28,"Under Maintenance"
+281,34,AC,180,2023-07-09,Unknown
+282,35,"DC Fast",60,2023-07-05,Active
+283,35,"DC Fast",180,2023-11-27,"Under Maintenance"
+284,35,AC,120,2023-05-22,Active
+285,35,AC,120,2023-02-16,Active
+286,35,AC,60,2023-06-20,Active
+287,35,AC,180,2023-04-16,Unknown
+288,35,AC,180,2023-04-21,Active
+289,35,"DC Fast",60,2023-11-02,Active
+290,35,"DC Fast",60,2023-03-08,"Under Maintenance"
+291,35,AC,60,2023-12-05,Active
+292,35,AC,60,2023-07-03,Active
+293,36,AC,60,2023-05-16,Active
+294,36,AC,180,2023-08-04,Active
+295,36,AC,120,2023-08-18,"Under Maintenance"
+296,36,AC,120,2023-09-15,Active
+297,36,AC,180,2023-12-04,"Under Maintenance"
+298,36,"DC Fast",180,2023-01-16,Active
+299,36,"DC Fast",120,2023-08-07,Active
+300,36,"DC Fast",180,2023-08-16,Active
+301,36,AC,120,2023-11-08,Active
+302,37,AC,120,2023-11-16,"Under Maintenance"
+303,37,"DC Fast",180,2023-09-29,"Under Maintenance"
+304,37,"DC Fast",180,2023-11-06,"Under Maintenance"
+305,37,AC,180,2023-02-28,Active
+306,37,"DC Fast",120,2023-04-27,"Under Maintenance"
+307,38,"DC Fast",120,2023-08-01,Active
+308,38,"DC Fast",120,2023-06-10,"Under Maintenance"
+309,38,"DC Fast",60,2023-12-18,"Under Maintenance"
+310,38,AC,60,2023-02-13,Active
+311,38,"DC Fast",60,2023-07-10,Active
+312,38,AC,180,2023-10-15,"Under Maintenance"
+313,38,AC,120,2023-07-01,"Under Maintenance"
+314,38,AC,120,2023-11-04,"Under Maintenance"
+315,38,"DC Fast",60,2023-10-23,Active
+316,39,"DC Fast",60,2023-02-25,"Under Maintenance"
+317,39,"DC Fast",60,2023-05-23,Active
+318,39,"DC Fast",180,2023-11-15,Active
+319,39,"DC Fast",60,2023-04-03,"Under Maintenance"
+320,39,"DC Fast",120,2023-06-29,Active
+321,39,AC,60,2023-10-17,"Under Maintenance"
+322,40,AC,180,2023-11-21,Active
+323,40,AC,180,2023-09-29,Active
+324,40,"DC Fast",120,2023-08-21,Unknown
+325,40,AC,120,2023-06-09,"Under Maintenance"
+326,40,AC,60,2023-03-21,Active
+327,41,AC,120,2023-08-15,"Under Maintenance"
+328,41,"DC Fast",180,2023-08-15,"Under Maintenance"
+329,41,"DC Fast",60,2023-09-20,Active
+330,41,"DC Fast",120,2023-02-26,"Under Maintenance"
+331,42,"DC Fast",60,2023-04-23,"Under Maintenance"
+332,42,AC,60,2023-04-15,Unknown
+333,42,AC,60,2023-05-11,"Under Maintenance"
+334,42,"DC Fast",60,2023-01-04,"Under Maintenance"
+335,42,"DC Fast",60,2023-03-08,"Under Maintenance"
+336,42,AC,180,2023-10-14,"Under Maintenance"
+337,42,AC,120,2023-01-22,"Under Maintenance"
+338,42,AC,120,2023-02-09,"Under Maintenance"
+339,42,"DC Fast",180,2023-07-27,"Under Maintenance"
+340,42,"DC Fast",60,2023-07-27,Active
+341,42,"DC Fast",60,2023-11-13,"Under Maintenance"
+342,43,AC,120,2023-02-24,Active
+343,43,"DC Fast",180,2023-07-25,Active
+344,43,"DC Fast",120,2023-06-23,Active
+345,43,"DC Fast",60,2023-02-09,Active
+346,43,AC,120,2023-06-29,Active
+347,43,AC,60,2023-03-16,"Under Maintenance"
+348,43,AC,60,2023-11-05,Active
+349,43,AC,60,2023-11-18,"Under Maintenance"
+350,43,"DC Fast",180,2023-10-24,"Under Maintenance"
+351,44,"DC Fast",60,2023-08-14,Active
+352,44,"DC Fast",120,2023-11-20,"Under Maintenance"
+353,44,"DC Fast",180,2023-01-29,"Under Maintenance"
+354,44,AC,120,2023-08-25,"Under Maintenance"
+355,44,AC,60,2023-07-08,"Under Maintenance"
+356,44,AC,180,2023-02-16,"Under Maintenance"
+357,44,"DC Fast",180,2023-10-11,Active
+358,44,"DC Fast",180,2023-11-30,Active
+359,44,"DC Fast",180,2023-09-01,Active
+360,45,"DC Fast",60,2023-06-25,Active
+361,45,AC,60,2023-05-07,"Under Maintenance"
+362,45,"DC Fast",180,2023-09-25,Active
+363,45,"DC Fast",120,2023-05-25,"Under Maintenance"
+364,46,"DC Fast",180,2023-11-03,Active
+365,46,"DC Fast",60,2023-06-18,Active
+366,46,"DC Fast",120,2023-05-10,Active
+367,46,"DC Fast",60,2023-10-26,Active
+368,46,"DC Fast",120,2023-12-02,"Under Maintenance"
+369,46,AC,180,2023-12-29,Active
+370,46,"DC Fast",180,2023-07-12,"Under Maintenance"
+371,46,AC,180,2023-12-26,Active
+372,46,"DC Fast",180,2023-07-05,Active
+373,46,"DC Fast",120,2023-04-03,Active
+374,47,"DC Fast",60,2023-04-26,Active
+375,47,AC,60,2023-06-01,Active
+376,47,AC,180,2023-06-22,Active
+377,47,"DC Fast",60,2023-03-25,Active
+378,47,AC,180,2023-08-13,Active
+379,47,"DC Fast",120,2023-12-13,Active
+380,47,"DC Fast",180,2023-05-26,"Under Maintenance"
+381,47,AC,180,2023-05-03,"Under Maintenance"
+382,47,"DC Fast",60,2023-07-08,"Under Maintenance"
+383,48,"DC Fast",120,2023-09-15,"Under Maintenance"
+384,48,AC,60,2023-11-06,Active
+385,48,"DC Fast",60,2023-11-25,"Under Maintenance"
+386,48,"DC Fast",180,2023-02-22,Active
+387,48,"DC Fast",60,2023-03-24,"Under Maintenance"
+388,48,"DC Fast",180,2023-03-17,"Under Maintenance"
+389,48,AC,60,2023-08-19,"Under Maintenance"
+390,48,AC,120,2023-01-28,"Under Maintenance"
+391,48,"DC Fast",60,2023-07-17,Active
+392,48,"DC Fast",60,2023-01-15,"Under Maintenance"
+393,48,AC,180,2023-11-29,"Under Maintenance"
+394,49,AC,60,2023-05-27,"Under Maintenance"
+395,49,AC,180,2023-08-29,"Under Maintenance"
+396,49,AC,60,2023-01-10,"Under Maintenance"
+397,49,AC,60,2023-10-08,"Under Maintenance"
+398,49,AC,120,2023-05-02,"Under Maintenance"
+399,49,AC,60,2023-05-03,"Under Maintenance"
+400,50,AC,60,2023-09-13,Active
+401,50,AC,180,2023-03-15,"Under Maintenance"
+402,50,"DC Fast",60,2023-11-11,"Under Maintenance"
+403,50,AC,180,2023-08-02,Active
+404,50,AC,180,2023-07-04,Active
+405,50,AC,120,2023-08-29,Active
+406,50,"DC Fast",120,2023-05-10,Active
+407,50,"DC Fast",60,2023-06-26,Active
+408,50,AC,180,2023-06-20,Active
+409,50,AC,120,2023-10-07,"Under Maintenance"
+410,50,AC,180,2023-08-26,"Under Maintenance"
+411,51,AC,60,2023-08-23,Active
+412,51,"DC Fast",60,2023-01-23,Active
+413,51,AC,120,2023-06-08,"Under Maintenance"
+414,51,"DC Fast",120,2023-01-19,Active
+415,51,"DC Fast",120,2023-01-25,"Under Maintenance"
+416,51,"DC Fast",60,2023-07-08,"Under Maintenance"
+417,52,"DC Fast",120,2023-06-23,Active
+418,52,"DC Fast",180,2023-09-12,"Under Maintenance"
+419,52,"DC Fast",60,2023-08-06,Active
+420,52,"DC Fast",180,2023-04-03,"Under Maintenance"
+421,52,"DC Fast",60,2023-02-10,"Under Maintenance"
+422,52,"DC Fast",120,2023-08-17,"Under Maintenance"
+423,52,AC,180,2023-08-16,Unknown
+424,52,"DC Fast",60,2023-06-30,"Under Maintenance"
+425,52,"DC Fast",180,2023-01-30,Active
+426,52,"DC Fast",120,2023-09-20,Active
+427,53,AC,180,2023-12-14,"Under Maintenance"
+428,53,AC,60,2023-02-04,Active
+429,53,"DC Fast",120,2023-07-16,Active
+430,53,AC,180,2023-08-19,"Under Maintenance"
+431,54,"DC Fast",60,2023-10-21,Active
+432,54,"DC Fast",120,2023-06-10,"Under Maintenance"
+433,54,AC,60,2023-01-14,Active
+434,54,"DC Fast",180,2023-07-18,Active
+435,54,"DC Fast",120,2023-12-27,"Under Maintenance"
+436,54,AC,180,2023-05-27,"Under Maintenance"
+437,54,AC,60,2023-03-11,Active
+438,54,"DC Fast",60,2024-01-01,"Under Maintenance"
+439,54,AC,180,2023-06-13,"Under Maintenance"
+440,55,"DC Fast",120,2023-03-22,Active
+441,55,"DC Fast",180,2023-04-25,Active
+442,55,AC,60,2023-05-02,"Under Maintenance"
+443,55,AC,120,2023-10-11,"Under Maintenance"
+444,55,"DC Fast",180,2023-03-08,Active
+445,56,"DC Fast",120,2023-09-03,"Under Maintenance"
+446,56,"DC Fast",180,2023-02-07,Active
+447,56,"DC Fast",180,2023-02-07,"Under Maintenance"
+448,56,"DC Fast",180,2023-09-22,"Under Maintenance"
+449,56,AC,180,2023-11-24,Active
+450,57,"DC Fast",180,2023-01-29,Active
+451,57,AC,120,2023-03-26,Active
+452,57,"DC Fast",180,2023-04-26,"Under Maintenance"
+453,57,"DC Fast",60,2023-05-09,Active
+454,57,"DC Fast",60,2023-11-17,"Under Maintenance"
+455,57,AC,180,2023-11-25,Active
+456,58,AC,180,2023-11-16,"Under Maintenance"
+457,58,AC,60,2023-02-11,Active
+458,58,"DC Fast",180,2023-04-18,"Under Maintenance"
+459,58,AC,120,2023-11-18,"Under Maintenance"
+460,58,"DC Fast",120,2023-05-06,"Under Maintenance"
+461,58,"DC Fast",120,2023-02-07,Active
+462,59,"DC Fast",120,2023-09-05,"Under Maintenance"
+463,59,AC,120,2023-11-07,Active
+464,59,"DC Fast",180,2023-06-13,"Under Maintenance"
+465,59,"DC Fast",60,2023-07-09,Active
+466,59,"DC Fast",60,2023-08-27,Active
+467,59,"DC Fast",120,2023-05-07,Active
+468,60,AC,120,2023-07-16,Unknown
+469,60,AC,60,2023-06-17,"Under Maintenance"
+470,60,AC,60,2023-09-13,"Under Maintenance"
+471,60,"DC Fast",120,2023-09-12,Active
+472,60,AC,120,2023-09-16,"Under Maintenance"
+473,61,AC,180,2023-06-30,Active
+474,61,AC,120,2023-09-11,"Under Maintenance"
+475,61,"DC Fast",180,2023-01-05,Active
+476,61,"DC Fast",60,2023-05-16,"Under Maintenance"
+477,61,"DC Fast",120,2023-01-24,"Under Maintenance"
+478,61,AC,180,2023-10-15,Active
+479,61,"DC Fast",180,2023-05-28,Active
+480,62,"DC Fast",180,2023-05-24,Active
+481,62,AC,60,2023-07-21,"Under Maintenance"
+482,62,"DC Fast",180,2023-07-07,Unknown
+483,62,AC,180,2023-09-18,"Under Maintenance"
+484,62,AC,60,2023-01-20,Active
+485,62,"DC Fast",120,2023-09-23,"Under Maintenance"
+486,62,AC,180,2023-09-21,Active
+487,62,"DC Fast",180,2023-06-13,Active
+488,62,"DC Fast",180,2023-06-03,"Under Maintenance"
+489,62,"DC Fast",180,2023-10-16,"Under Maintenance"
+490,63,AC,120,2023-06-19,Active
+491,63,"DC Fast",180,2023-06-07,Active
+492,63,"DC Fast",120,2023-12-02,Active
+493,63,AC,180,2023-09-03,Active
+494,63,"DC Fast",60,2023-12-15,Active
+495,63,AC,180,2023-12-25,Active
+496,63,AC,60,2023-08-14,"Under Maintenance"
+497,63,"DC Fast",60,2023-07-31,Active
+498,63,"DC Fast",180,2023-11-10,"Under Maintenance"
+499,63,AC,180,2023-03-12,Active
+500,63,"DC Fast",180,2023-09-02,Unknown
+501,64,AC,120,2023-09-30,"Under Maintenance"
+502,64,"DC Fast",180,2023-12-15,"Under Maintenance"
+503,64,"DC Fast",60,2023-05-07,"Under Maintenance"
+504,64,"DC Fast",60,2023-06-02,"Under Maintenance"
+505,64,AC,180,2023-12-27,"Under Maintenance"
+506,64,"DC Fast",120,2023-06-28,"Under Maintenance"
+507,64,"DC Fast",60,2023-10-21,"Under Maintenance"
+508,64,"DC Fast",120,2023-03-16,"Under Maintenance"
+509,64,AC,120,2024-01-01,Active
+510,65,"DC Fast",180,2023-05-12,"Under Maintenance"
+511,65,AC,60,2023-10-03,"Under Maintenance"
+512,65,"DC Fast",60,2023-02-25,Active
+513,65,AC,60,2023-12-09,Active
+514,65,AC,60,2023-02-21,"Under Maintenance"
+515,65,"DC Fast",180,2023-08-30,Active
+516,65,AC,60,2023-10-09,Active
+517,65,"DC Fast",180,2023-09-01,"Under Maintenance"
+518,65,AC,120,2023-06-14,"Under Maintenance"
+519,66,AC,180,2023-10-21,Active
+520,66,AC,60,2023-08-02,Active
+521,66,AC,120,2023-09-11,Active
+522,66,"DC Fast",60,2023-01-05,"Under Maintenance"
+523,67,"DC Fast",120,2023-08-21,"Under Maintenance"
+524,67,AC,180,2023-08-28,"Under Maintenance"
+525,67,AC,60,2023-06-19,Active
+526,67,"DC Fast",180,2023-05-12,Active
+527,67,AC,180,2023-06-22,"Under Maintenance"
+528,68,AC,180,2023-11-24,"Under Maintenance"
+529,68,"DC Fast",180,2023-06-17,Active
+530,68,"DC Fast",180,2023-02-18,Active
+531,68,AC,120,2023-06-15,Active
+532,68,AC,120,2023-07-16,Active
+533,68,"DC Fast",120,2023-06-18,"Under Maintenance"
+534,68,AC,120,2023-12-01,"Under Maintenance"
+535,69,AC,180,2023-03-02,"Under Maintenance"
+536,69,"DC Fast",60,2023-07-27,"Under Maintenance"
+537,69,AC,180,2023-06-01,"Under Maintenance"
+538,69,AC,60,2023-03-10,"Under Maintenance"
+539,69,AC,120,2023-11-07,Unknown
+540,69,"DC Fast",180,2023-10-09,"Under Maintenance"
+541,69,AC,60,2023-12-15,Active
+542,70,"DC Fast",180,2023-12-27,"Under Maintenance"
+543,70,AC,180,2023-02-27,Active
+544,70,AC,180,2023-10-02,Active
+545,70,AC,120,2023-09-24,"Under Maintenance"
+546,70,AC,180,2023-04-16,"Under Maintenance"
+547,70,AC,180,2023-08-17,Active
+548,70,"DC Fast",60,2023-09-20,"Under Maintenance"
+549,70,"DC Fast",180,2023-01-30,"Under Maintenance"
+550,70,"DC Fast",180,2023-01-12,"Under Maintenance"
+551,70,"DC Fast",60,2023-04-22,Active
+552,70,AC,120,2023-06-26,Active
+553,70,AC,60,2023-08-30,Active
+554,71,"DC Fast",60,2023-03-11,"Under Maintenance"
+555,71,"DC Fast",120,2023-08-18,"Under Maintenance"
+556,71,"DC Fast",60,2023-12-16,Active
+557,71,"DC Fast",60,2023-04-02,"Under Maintenance"
+558,71,AC,180,2023-04-25,Active
+559,71,AC,120,2023-08-26,"Under Maintenance"
+560,71,"DC Fast",60,2023-05-07,"Under Maintenance"
+561,71,"DC Fast",60,2023-05-22,Active
+562,72,AC,180,2023-08-03,Active
+563,72,AC,60,2023-02-04,Active
+564,72,AC,120,2023-11-03,Active
+565,72,AC,180,2023-01-23,"Under Maintenance"
+566,72,"DC Fast",60,2023-10-04,Active
+567,73,AC,180,2023-05-29,Active
+568,73,"DC Fast",180,2023-11-03,"Under Maintenance"
+569,73,AC,120,2023-03-15,Unknown
+570,73,"DC Fast",120,2023-05-21,Active
+571,74,AC,180,2023-12-14,"Under Maintenance"
+572,74,"DC Fast",60,2023-06-26,"Under Maintenance"
+573,74,"DC Fast",180,2023-08-02,"Under Maintenance"
+574,74,AC,120,2023-07-12,Active
+575,74,"DC Fast",60,2023-04-26,"Under Maintenance"
+576,74,AC,120,2023-01-30,"Under Maintenance"
+577,74,"DC Fast",180,2023-09-29,Active
+578,74,"DC Fast",60,2023-05-11,Active
+579,74,"DC Fast",180,2023-02-10,"Under Maintenance"
+580,74,"DC Fast",60,2023-10-02,Active
+581,74,AC,120,2023-07-13,Active
+582,74,AC,60,2023-10-28,Active
+583,75,AC,120,2023-06-05,Active
+584,75,AC,60,2023-03-02,"Under Maintenance"
+585,75,AC,180,2023-11-06,Active
+586,75,"DC Fast",60,2023-10-10,"Under Maintenance"
+587,75,"DC Fast",120,2023-08-27,"Under Maintenance"
+588,75,"DC Fast",120,2023-07-04,"Under Maintenance"
+589,75,"DC Fast",60,2023-08-29,"Under Maintenance"
+590,75,AC,120,2023-06-10,"Under Maintenance"
+591,75,AC,180,2023-04-24,Active
+592,75,AC,120,2023-10-11,"Under Maintenance"
+593,75,"DC Fast",60,2023-04-11,"Under Maintenance"
+594,76,"DC Fast",180,2023-05-06,"Under Maintenance"
+595,76,"DC Fast",120,2023-09-08,"Under Maintenance"
+596,76,"DC Fast",60,2023-06-30,Active
+597,76,AC,180,2023-10-07,"Under Maintenance"
+598,76,AC,180,2023-11-25,Active
+599,76,AC,60,2023-12-09,Active
+600,76,AC,120,2023-03-12,Active
+601,77,AC,60,2023-04-22,"Under Maintenance"
+602,77,"DC Fast",60,2023-11-13,"Under Maintenance"
+603,77,"DC Fast",60,2023-01-04,"Under Maintenance"
+604,77,AC,60,2023-09-29,"Under Maintenance"
+605,77,"DC Fast",60,2023-09-15,"Under Maintenance"
+606,78,AC,60,2023-09-26,Active
+607,78,AC,60,2023-11-14,"Under Maintenance"
+608,78,"DC Fast",120,2023-07-23,Active
+609,78,"DC Fast",120,2023-08-24,Active
+610,78,AC,120,2023-12-17,Active
+611,78,AC,60,2023-07-27,"Under Maintenance"
+612,79,"DC Fast",60,2023-11-23,Active
+613,79,AC,60,2023-09-13,"Under Maintenance"
+614,79,"DC Fast",180,2023-02-18,Active
+615,79,AC,60,2023-12-21,"Under Maintenance"
+616,79,"DC Fast",60,2023-02-08,"Under Maintenance"
+617,79,AC,60,2023-06-11,Active
+618,79,AC,180,2023-03-15,"Under Maintenance"
+619,79,AC,120,2023-03-25,Active
+620,79,"DC Fast",180,2023-10-04,"Under Maintenance"
+621,79,"DC Fast",180,2023-03-13,Active
+622,80,"DC Fast",60,2023-02-20,"Under Maintenance"
+623,80,AC,60,2023-06-24,"Under Maintenance"
+624,80,"DC Fast",60,2023-11-21,"Under Maintenance"
+625,80,"DC Fast",120,2023-04-27,"Under Maintenance"
+626,80,"DC Fast",120,2023-04-06,"Under Maintenance"
+627,80,AC,180,2023-06-01,Active
+628,80,AC,60,2023-05-18,Active
+629,80,"DC Fast",180,2023-11-21,Active
+630,80,"DC Fast",120,2023-07-04,Active
+631,80,AC,60,2023-06-07,"Under Maintenance"
+632,80,"DC Fast",120,2023-02-22,Active
+633,80,AC,60,2023-08-09,"Under Maintenance"
+634,81,"DC Fast",60,2023-01-14,Active
+635,81,"DC Fast",180,2023-02-17,"Under Maintenance"
+636,81,"DC Fast",60,2023-05-30,"Under Maintenance"
+637,81,"DC Fast",60,2023-10-14,Active
+638,81,AC,180,2023-07-14,Active
+639,81,AC,120,2023-06-04,Unknown
+640,81,"DC Fast",60,2023-02-02,Active
+641,81,"DC Fast",120,2023-08-04,"Under Maintenance"
+642,81,"DC Fast",60,2023-07-04,"Under Maintenance"
+643,81,AC,180,2023-11-17,"Under Maintenance"
+644,81,AC,120,2023-02-24,Active
+645,81,"DC Fast",60,2023-07-22,"Under Maintenance"
+646,82,"DC Fast",120,2023-06-21,"Under Maintenance"
+647,82,AC,120,2023-06-14,Active
+648,82,"DC Fast",120,2023-04-01,"Under Maintenance"
+649,82,"DC Fast",120,2023-12-22,"Under Maintenance"
+650,82,AC,120,2023-07-12,"Under Maintenance"
+651,82,"DC Fast",120,2023-02-28,Active
+652,82,AC,180,2023-10-09,Active
+653,82,"DC Fast",180,2023-04-18,"Under Maintenance"
+654,82,"DC Fast",180,2023-02-05,"Under Maintenance"
+655,82,"DC Fast",60,2023-11-21,"Under Maintenance"
+656,83,"DC Fast",180,2023-03-20,"Under Maintenance"
+657,83,"DC Fast",60,2023-08-18,"Under Maintenance"
+658,83,"DC Fast",180,2023-09-17,"Under Maintenance"
+659,83,AC,120,2023-12-26,Active
+660,83,AC,60,2023-12-03,"Under Maintenance"
+661,83,AC,180,2023-11-10,Active
+662,83,"DC Fast",120,2023-08-09,Active
+663,84,AC,120,2023-04-24,Active
+664,84,"DC Fast",120,2023-07-20,"Under Maintenance"
+665,84,AC,120,2023-01-13,"Under Maintenance"
+666,84,AC,120,2023-08-01,Active
+667,85,AC,120,2023-06-09,"Under Maintenance"
+668,85,"DC Fast",60,2023-09-24,"Under Maintenance"
+669,85,"DC Fast",120,2023-02-19,"Under Maintenance"
+670,85,"DC Fast",120,2023-02-04,"Under Maintenance"
+671,85,AC,180,2023-02-28,Active
+672,86,AC,180,2023-03-26,Active
+673,86,AC,180,2023-03-23,"Under Maintenance"
+674,86,"DC Fast",120,2023-04-29,"Under Maintenance"
+675,86,AC,60,2023-11-24,"Under Maintenance"
+676,86,"DC Fast",60,2023-11-11,Active
+677,86,"DC Fast",180,2023-08-08,"Under Maintenance"
+678,86,AC,180,2023-04-20,Active
+679,86,"DC Fast",180,2023-02-02,Active
+680,86,AC,120,2023-06-16,Active
+681,87,AC,120,2023-12-10,"Under Maintenance"
+682,87,"DC Fast",180,2023-07-18,"Under Maintenance"
+683,87,AC,120,2023-06-30,"Under Maintenance"
+684,87,AC,180,2023-12-28,"Under Maintenance"
+685,87,AC,180,2023-03-10,"Under Maintenance"
+686,87,AC,60,2023-06-06,Active
+687,87,AC,120,2023-12-22,Active
+688,87,"DC Fast",120,2023-11-02,Active
+689,87,"DC Fast",120,2023-04-06,"Under Maintenance"
+690,87,AC,180,2023-03-27,"Under Maintenance"
+691,87,"DC Fast",60,2023-04-06,"Under Maintenance"
+692,88,AC,120,2023-01-05,"Under Maintenance"
+693,88,AC,60,2023-07-16,"Under Maintenance"
+694,88,"DC Fast",180,2023-09-09,"Under Maintenance"
+695,88,"DC Fast",120,2023-03-27,Active
+696,88,AC,60,2023-05-30,Active
+697,88,"DC Fast",60,2023-10-03,"Under Maintenance"
+698,88,AC,120,2023-10-17,"Under Maintenance"
+699,88,AC,180,2023-02-28,"Under Maintenance"
+700,88,"DC Fast",180,2023-01-22,"Under Maintenance"
+701,88,AC,120,2023-02-22,Active
+702,88,"DC Fast",60,2023-08-19,"Under Maintenance"
+703,89,AC,120,2023-03-02,Active
+704,89,AC,180,2023-10-29,"Under Maintenance"
+705,89,"DC Fast",60,2023-11-12,Active
+706,89,AC,60,2023-01-31,"Under Maintenance"
+707,89,"DC Fast",180,2023-10-03,Active
+708,89,"DC Fast",180,2023-05-30,"Under Maintenance"
+709,89,"DC Fast",180,2023-12-14,Active
+710,89,AC,120,2023-01-31,"Under Maintenance"
+711,89,AC,180,2023-03-09,Active
+712,90,"DC Fast",60,2023-12-13,"Under Maintenance"
+713,90,"DC Fast",60,2023-10-23,"Under Maintenance"
+714,90,"DC Fast",120,2023-08-20,Active
+715,90,AC,120,2023-09-21,"Under Maintenance"
+716,90,"DC Fast",120,2023-09-07,"Under Maintenance"
+717,90,AC,180,2023-02-17,"Under Maintenance"
+718,91,AC,180,2023-07-23,Active
+719,91,"DC Fast",60,2023-09-11,"Under Maintenance"
+720,91,"DC Fast",120,2023-06-22,Active
+721,91,"DC Fast",120,2023-12-16,Active
+722,91,AC,60,2023-11-17,"Under Maintenance"
+723,91,AC,60,2023-03-22,"Under Maintenance"
+724,91,"DC Fast",60,2023-08-08,Active
+725,91,AC,180,2023-06-04,Active
+726,91,"DC Fast",60,2023-12-02,"Under Maintenance"
+727,92,AC,120,2023-12-07,Active
+728,92,AC,120,2023-11-17,"Under Maintenance"
+729,92,AC,120,2023-12-02,Active
+730,92,AC,60,2023-04-20,"Under Maintenance"
+731,92,AC,60,2023-10-31,Active
+732,92,"DC Fast",60,2023-01-05,"Under Maintenance"
+733,92,AC,120,2023-12-22,Active
+734,92,"DC Fast",60,2023-04-28,"Under Maintenance"
+735,93,AC,60,2023-06-10,"Under Maintenance"
+736,93,"DC Fast",60,2023-07-15,Active
+737,93,AC,60,2023-09-29,Active
+738,93,AC,120,2023-06-29,Active
+739,93,AC,120,2023-11-12,"Under Maintenance"
+740,94,AC,60,2023-03-13,Active
+741,94,"DC Fast",120,2023-08-08,"Under Maintenance"
+742,94,AC,60,2023-05-22,Active
+743,94,AC,180,2023-11-04,"Under Maintenance"
+744,94,AC,180,2023-06-04,Active
+745,94,AC,180,2023-07-20,"Under Maintenance"
+746,94,AC,60,2023-09-11,"Under Maintenance"
+747,95,AC,120,2023-11-23,Active
+748,95,AC,120,2023-06-12,Active
+749,95,"DC Fast",180,2023-08-04,"Under Maintenance"
+750,95,AC,120,2023-02-07,Active
+751,95,AC,60,2023-05-15,Active
+752,96,AC,120,2023-09-17,"Under Maintenance"
+753,96,"DC Fast",120,2023-12-26,"Under Maintenance"
+754,96,AC,180,2023-10-02,Active
+755,96,"DC Fast",60,2023-06-08,Active
+756,97,AC,60,2023-10-02,"Under Maintenance"
+757,97,"DC Fast",180,2023-11-21,Active
+758,97,"DC Fast",180,2023-08-12,Active
+759,97,AC,60,2023-02-14,"Under Maintenance"
+760,97,AC,120,2023-11-10,Active
+761,97,"DC Fast",180,2023-12-03,Active
+762,97,AC,60,2023-12-29,Active
+763,97,AC,60,2023-09-12,"Under Maintenance"
+764,97,"DC Fast",60,2023-07-10,Active
+765,97,"DC Fast",180,2023-03-02,Active
+766,97,"DC Fast",120,2023-05-20,Active
+767,97,"DC Fast",180,2023-10-23,Active
+768,98,"DC Fast",180,2023-07-04,Active
+769,98,"DC Fast",180,2023-03-27,"Under Maintenance"
+770,98,AC,120,2023-02-22,Active
+771,98,AC,180,2023-09-18,Active
+772,98,AC,60,2023-05-06,Active
+773,98,"DC Fast",120,2023-07-16,Active
+774,98,AC,60,2023-10-11,"Under Maintenance"
+775,98,AC,120,2023-05-08,"Under Maintenance"
+776,98,"DC Fast",120,2023-02-09,"Under Maintenance"
+777,98,AC,180,2023-12-11,Active
+778,98,AC,60,2023-09-22,Active
+779,99,AC,120,2023-05-25,"Under Maintenance"
+780,99,"DC Fast",60,2023-10-11,"Under Maintenance"
+781,99,AC,120,2023-04-13,"Under Maintenance"
+782,99,"DC Fast",180,2023-11-15,Active
+783,99,"DC Fast",120,2023-10-30,"Under Maintenance"
+784,99,AC,180,2023-10-07,Active
+785,99,AC,60,2023-07-29,Active
+786,99,AC,180,2023-06-27,Active
+787,99,"DC Fast",60,2023-12-03,"Under Maintenance"
+788,99,"DC Fast",60,2023-04-16,Active
+789,100,"DC Fast",60,2023-03-14,"Under Maintenance"
+790,100,AC,60,2023-04-29,"Under Maintenance"
+791,100,"DC Fast",120,2023-02-13,Active
+792,100,AC,180,2023-07-21,Active
+793,100,AC,120,2023-12-06,Active
+794,100,AC,120,2023-05-14,"Under Maintenance"
+795,100,"DC Fast",180,2023-06-17,"Under Maintenance"
+796,100,"DC Fast",120,2023-04-30,Active
+797,100,AC,60,2023-10-27,Active
+798,100,AC,60,2023-03-26,"Under Maintenance"
+799,101,"DC Fast",120,2023-03-03,"Under Maintenance"
+800,101,AC,120,2023-06-07,"Under Maintenance"
+801,101,"DC Fast",60,2023-02-16,Active
+802,101,"DC Fast",180,2023-12-23,Active
+803,101,AC,120,2023-03-17,Active
+804,101,AC,120,2023-07-22,Active
+805,101,"DC Fast",120,2023-03-31,Active
+806,101,"DC Fast",120,2023-10-12,Active
+807,101,AC,120,2023-02-22,Active
+808,101,AC,60,2023-02-01,Active
+809,101,AC,60,2023-07-25,"Under Maintenance"
+810,102,"DC Fast",60,2023-01-12,Active
+811,102,AC,180,2023-08-16,Unknown
+812,102,AC,120,2023-03-04,Active
+813,102,"DC Fast",60,2023-03-28,"Under Maintenance"
+814,102,"DC Fast",120,2023-01-16,"Under Maintenance"
+815,103,AC,120,2023-04-20,Active
+816,103,"DC Fast",120,2023-08-17,Active
+817,103,AC,180,2023-11-14,Active
+818,103,"DC Fast",120,2023-07-30,"Under Maintenance"
+819,103,AC,60,2023-05-24,"Under Maintenance"
+820,103,AC,120,2023-04-13,Active
+821,103,AC,120,2024-01-01,"Under Maintenance"
+822,103,"DC Fast",180,2023-09-06,"Under Maintenance"
+823,103,"DC Fast",120,2023-05-19,Active
+824,103,AC,120,2023-11-02,Active
+825,104,"DC Fast",60,2023-08-30,"Under Maintenance"
+826,104,AC,60,2023-02-21,Active
+827,104,AC,120,2023-10-01,Active
+828,104,AC,180,2023-07-18,"Under Maintenance"
+829,105,AC,60,2023-10-31,"Under Maintenance"
+830,105,"DC Fast",180,2023-01-15,"Under Maintenance"
+831,105,AC,180,2023-04-07,"Under Maintenance"
+832,105,"DC Fast",60,2023-09-09,Active
+833,105,AC,60,2023-04-30,Active
+834,105,AC,180,2023-09-02,Active
+835,106,AC,60,2023-06-24,Active
+836,106,"DC Fast",60,2023-01-12,Active
+837,106,AC,60,2023-09-27,"Under Maintenance"
+838,106,AC,120,2023-12-27,"Under Maintenance"
+839,106,AC,120,2023-06-04,"Under Maintenance"
+840,106,AC,60,2023-08-12,"Under Maintenance"
+841,106,"DC Fast",60,2023-12-29,"Under Maintenance"
+842,106,AC,180,2023-10-29,Active
+843,106,"DC Fast",120,2023-12-19,"Under Maintenance"
+844,107,AC,180,2023-01-01,"Under Maintenance"
+845,107,AC,60,2023-11-05,"Under Maintenance"
+846,107,AC,180,2023-10-17,Active
+847,107,"DC Fast",60,2023-06-19,Active
+848,107,AC,120,2023-06-13,Active
+849,107,AC,180,2023-12-10,"Under Maintenance"
+850,108,AC,120,2023-04-18,Active
+851,108,AC,120,2023-05-12,Active
+852,108,AC,60,2023-07-17,"Under Maintenance"
+853,108,"DC Fast",60,2023-07-31,"Under Maintenance"
+854,108,"DC Fast",120,2023-10-07,"Under Maintenance"
+855,108,AC,120,2023-10-23,Active
+856,108,AC,120,2023-02-07,Active
+857,108,"DC Fast",60,2023-06-13,"Under Maintenance"
+858,108,AC,60,2023-06-25,Active
+859,108,"DC Fast",60,2023-02-08,Active
+860,108,"DC Fast",180,2023-11-11,"Under Maintenance"
+861,109,"DC Fast",180,2023-03-26,"Under Maintenance"
+862,109,AC,60,2023-02-21,"Under Maintenance"
+863,109,AC,60,2023-07-29,"Under Maintenance"
+864,109,"DC Fast",120,2023-05-02,Active
+865,110,"DC Fast",180,2023-10-09,"Under Maintenance"
+866,110,AC,60,2023-07-04,Active
+867,110,"DC Fast",60,2023-05-31,"Under Maintenance"
+868,110,AC,60,2023-01-14,Active
+869,111,"DC Fast",60,2023-08-31,Unknown
+870,111,"DC Fast",120,2023-08-30,"Under Maintenance"
+871,111,"DC Fast",60,2023-11-25,"Under Maintenance"
+872,111,AC,120,2023-07-15,"Under Maintenance"
+873,111,AC,120,2023-01-23,"Under Maintenance"
+874,111,"DC Fast",120,2023-05-15,Active
+875,112,AC,60,2023-12-23,Active
+876,112,AC,180,2023-06-26,"Under Maintenance"
+877,112,AC,180,2023-02-01,"Under Maintenance"
+878,112,"DC Fast",180,2023-12-18,"Under Maintenance"
+879,112,AC,120,2023-06-03,Active
+880,112,"DC Fast",180,2023-01-18,Active
+881,112,AC,120,2023-03-30,Active
+882,112,AC,60,2023-03-06,Active
+883,113,AC,180,2023-08-11,Active
+884,113,AC,180,2023-05-13,"Under Maintenance"
+885,113,AC,60,2023-07-18,"Under Maintenance"
+886,113,"DC Fast",120,2023-09-24,"Under Maintenance"
+887,113,AC,180,2023-11-16,"Under Maintenance"
+888,113,AC,120,2023-03-18,Active
+889,113,AC,60,2023-10-16,Active
+890,113,"DC Fast",180,2023-06-26,"Under Maintenance"
+891,113,"DC Fast",120,2023-12-02,"Under Maintenance"
+892,113,"DC Fast",60,2023-03-30,"Under Maintenance"
+893,114,AC,180,2023-11-08,"Under Maintenance"
+894,114,AC,120,2023-06-19,Unknown
+895,114,AC,180,2023-09-01,"Under Maintenance"
+896,114,"DC Fast",60,2023-06-22,"Under Maintenance"
+897,114,"DC Fast",120,2023-09-09,Active
+898,114,AC,60,2023-06-03,"Under Maintenance"
+899,114,"DC Fast",120,2023-08-02,Active
+900,114,AC,120,2023-04-19,"Under Maintenance"
+901,114,"DC Fast",180,2023-07-11,Active
+902,114,AC,60,2023-06-09,"Under Maintenance"
+903,115,AC,60,2023-04-09,Active
+904,115,AC,60,2023-01-17,"Under Maintenance"
+905,115,AC,120,2023-12-27,Active
+906,115,"DC Fast",120,2023-08-26,"Under Maintenance"
+907,115,AC,180,2023-01-16,Active
+908,115,"DC Fast",120,2023-11-01,"Under Maintenance"
+909,116,"DC Fast",180,2023-10-10,"Under Maintenance"
+910,116,"DC Fast",60,2023-05-13,Active
+911,116,"DC Fast",60,2023-07-17,Active
+912,116,AC,180,2023-04-20,Active
+913,116,AC,180,2023-04-16,"Under Maintenance"
+914,116,"DC Fast",180,2023-01-11,Active
+915,117,AC,180,2023-03-30,Active
+916,117,AC,120,2023-11-08,"Under Maintenance"
+917,117,"DC Fast",120,2023-07-12,"Under Maintenance"
+918,117,"DC Fast",120,2023-04-22,"Under Maintenance"
+919,117,"DC Fast",180,2023-09-24,"Under Maintenance"
+920,117,AC,60,2023-09-19,"Under Maintenance"
+921,117,"DC Fast",120,2023-12-17,Active
+922,117,"DC Fast",60,2023-06-22,"Under Maintenance"
+923,117,"DC Fast",120,2023-05-14,"Under Maintenance"
+924,117,AC,60,2023-09-22,Active
+925,117,AC,180,2023-07-26,"Under Maintenance"
+926,118,AC,180,2023-09-12,"Under Maintenance"
+927,118,"DC Fast",120,2023-07-27,"Under Maintenance"
+928,118,AC,180,2023-12-29,Active
+929,118,"DC Fast",180,2024-01-01,Active
+930,118,"DC Fast",180,2023-07-03,"Under Maintenance"
+931,118,AC,180,2023-10-13,Active
+932,119,AC,120,2023-03-07,"Under Maintenance"
+933,119,AC,180,2023-06-21,Active
+934,119,AC,120,2023-04-25,"Under Maintenance"
+935,119,"DC Fast",120,2023-07-10,"Under Maintenance"
+936,119,"DC Fast",120,2023-03-02,"Under Maintenance"
+937,119,AC,180,2023-10-26,Active
+938,119,"DC Fast",60,2023-09-14,Active
+939,119,"DC Fast",180,2023-06-02,"Under Maintenance"
+940,120,AC,60,2023-04-13,"Under Maintenance"
+941,120,"DC Fast",180,2023-08-23,Active
+942,120,"DC Fast",180,2023-04-03,Active
+943,120,"DC Fast",120,2023-11-20,Active
